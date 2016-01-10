@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.image.egotastic_com" name="Egotastic!" version="0.1.0" provider-name="Lary_Loose">
+<addon id="plugin.image.egotastic.com" name="Egotastic 2" version="0.0.1" provider-name="Stevie-B">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
